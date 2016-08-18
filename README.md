@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-File has been updates
+File has been updated
